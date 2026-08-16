@@ -7,7 +7,7 @@ Decision Tree et Random Forest.
 
 ## Objectif
 Construire un modèle de classification capable de détecter 
-les patients diabétiques avec le meilleur Recall possible — 
+les patients diabétiques avec le meilleur Recall possible,
 car en médecine, rater un vrai diabétique est très dangereux.
 
 ## Dataset
