@@ -54,8 +54,11 @@ En médecine, rater un vrai diabétique est plus dangereux qu'une fausse alarme.
 
 ## Structure du projet
 |-- notebook.ipynb : Analyse complète
+
 |-- app.py : Interface Web Streamlit
+
 |-- diabetes.csv : Dataset
+
 |-- requirements.txt
 
 ## Notebook Kaggle
